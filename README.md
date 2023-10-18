@@ -1,2 +1,2 @@
 # CodoCodileWorkshop
-[sedaye CoroCodile]
+[Sedaye CoroCodile]
